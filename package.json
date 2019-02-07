@@ -1,0 +1,19 @@
+{
+  "name": "learning_ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha math_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dheeraj-p/learning-ci.git"
+  },
+  "author": "Dheeraj Pundir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheeraj-p/learning-ci/issues"
+  },
+  "homepage": "https://github.com/dheeraj-p/learning-ci#readme"
+}
